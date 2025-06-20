@@ -67,13 +67,3 @@ Hi, I’m **Shivam Vikhar** – a passionate Tech Enthusiast with hands-on exper
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 [![](https://visitcount.itsvg.in/api?id=shivik0505&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
-"""
-
-# Save the content to a README.md file
-file_path = "/mnt/data/README.md"
-with open(file_path, "w") as file:
-    file.write(readme_content)
-
-file_path
